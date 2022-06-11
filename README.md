@@ -13,7 +13,8 @@ The code to MP5 simulator is available in the folder simulator/. To replicate th
 $ ./all_sensitivity.sh
 ```
 The four graphs will be generated in .png format inside the folders pipelines/, stateful-stages/, state-size/, and packet-size/ respectively.
-And to replicate the graphs from Figure 7 in the paper, run
+
+To replicate the graphs from Figure 7 in the paper, run
 ```shell
 $ ./all_realapp.sh
 ```
