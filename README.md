@@ -14,7 +14,7 @@ $ ./all_sensitivity.sh
 ```
 The four graphs will be generated in .png format inside the folders pipelines/, stateful-stages/, state-size/, and packet-size/ respectively.
 
-To replicate the graphs from Figure 7 in the paper, run
+To replicate the graphs from Figure 8 in the paper, run
 ```shell
 $ ./all_realapp.sh
 ```
