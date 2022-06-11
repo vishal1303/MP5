@@ -1,0 +1,5 @@
+flowid,stage_num_1,state_in_stage_1,stage_num_2,state_in_stage_2,...
+1,6,0,4,0,2,0
+2,4,1,10,0,6,1,2,1
+3,4,2,2,2
+4,2,3,10,1
