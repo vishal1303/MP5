@@ -963,7 +963,7 @@ load_path = os.getcwd() + "/"
 #plot_line_graph(load_path,Keys,["clock.pieo"],"CLOCKPIEO","Clock rate (MHz)",xaxis="Size (# of elements)", xtransform=None)
 
 Keys = ["Ideal", "MP5 (simulation)", "MP5 (prototype)"]
-plot_line_graph(load_path,Keys,["results_uniform_1.dat","results_uniform_0.dat","prototype.dat"],"flowlet","Normalized Throughput",xaxis="Number of Pipelines", xtransform=None)
+plot_line_graph(load_path,Keys,["results_heavytail_1.dat","results_heavytail_0.dat","prototype.dat"],"flowlet","Normalized Throughput",xaxis="Number of Pipelines", xtransform=None)
 
 #def gen_all_graphs(base_path, bandwidth=90.909090):
     # gen hardware graphs
